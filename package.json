@@ -1,0 +1,27 @@
+{
+  "name": "sync-sdb",
+  "version": "0.1.0",
+  "description": "SimpleDB Backbone Sync adapter",
+  "keywords": ["connect", "sdb", "simpledb", "session", "express", "backbone"],
+  "author": "Farid Fadaie <farid.fadaie@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/faridfadaie/sync-sdb.git"
+  },
+  "bugs": {
+      "url": "https://github.com/faridfadaie/sync-sdb/issues"
+  },
+  "dependencies": {
+    "simpledb": "latest",
+    "node-uuid" : "latest"
+  },
+  "directories": {
+      "lib":"./lib"
+  },
+  "devDependencies": {
+
+  },
+  "scripts" : { "test": "make test" },
+  "main": "./lib/sync",
+  "engines": "node >= 0.4.x"
+}
