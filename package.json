@@ -12,8 +12,8 @@
       "url": "https://github.com/faridfadaie/sync-sdb/issues"
   },
   "dependencies": {
-    "simpledb": "latest",
-    "node-uuid" : "latest"
+    "simpledb": "0.1.0",
+    "node-uuid" : "1.4.1"
   },
   "directories": {
       "lib":"./lib"
