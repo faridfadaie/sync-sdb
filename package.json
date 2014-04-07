@@ -1,6 +1,6 @@
 {
   "name": "sync-sdb",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "SimpleDB Backbone Sync adapter",
   "keywords": ["connect", "sdb", "simpledb", "session", "express", "backbone"],
   "author": "Farid Fadaie <farid.fadaie@gmail.com>",
